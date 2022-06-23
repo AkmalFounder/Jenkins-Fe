@@ -1,5 +1,5 @@
 def secret = 'akmal'
-def server = 'jenkins.103.181.143.247'
+def server = 'jenkins@103.181.143.247'
 def directory = 'wayshub-frontend'
 def branch = 'main'
 
